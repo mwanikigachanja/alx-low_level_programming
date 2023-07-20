@@ -6,6 +6,9 @@
  */
 void print_number(int n)
 {
+    int reversed = 0;
+    int original = n;
+
     if (n == 0)
     {
         _putchar('0');
@@ -16,9 +19,6 @@ void print_number(int n)
         _putchar('-');
         n = -n;
     }
-
-    int reversed = 0;
-    int original = n;
 
     while (n != 0)
     {
@@ -35,3 +35,4 @@ void print_number(int n)
     if (original == 0)
         _putchar('0');
 }
+
