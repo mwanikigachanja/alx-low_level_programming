@@ -1,7 +1,15 @@
 -----------------------------------0x11.C - PRINTF---------------------------------
 An ALX Group Project In C.
-By Charles Mwaniki and Nifemi Oluwalade
-Date: 22nd August 2023.
+By Momodu Fred Yakubu and Ahmed Seid 
+Date: 25th June 2023.
+
+Below, were the tasks given. In other, for us to solve this project, the questions and processes were divided into two parts.
+The first part was handled by (Ahmed Seid) with the creation, and cloning of the repository from GitHub, and providing 
+solutions to the questions from 0 - 7.
+Secondly, my partner, Momodu Fred Yakubu git pull the repository from my GitHub platform to attend to the remaining questions; 8 -15,
+then convert the file using gcc, before git add., commit, and push. which then, I also git pull into my own machine, to get the 
+task done.
+Thank you. 
 
 ----------------------------------------TASKS------------------------------------------
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life.
@@ -181,4 +189,4 @@ In the repository we
 
 We hoped that we are able to meet your expectation via this project.
 Thank you.
-Charles & Nifemi
+Ahmed & Momodu
