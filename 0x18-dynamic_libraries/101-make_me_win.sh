@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -O /tmp/win.so https://github.com/Zevrov/holbertonschool-low_level_programming/raw/master/0x17-dynamic_libraries/win.so
-export LD_PRELOAD=/tmp/win.so
+wget -O /tmp/jackpot.so https://github.com/mwanikigachanja/alx-low_level_programming/blob/master/0x18-dynamic_libraries/jackpot.so
+export LD_PRELOAD=/tmp/jackpot.so
